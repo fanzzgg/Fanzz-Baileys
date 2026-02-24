@@ -1,5 +1,5 @@
 {
-    "name": "@Nt3dExec/baileys",
+    "name": "@Nted3xec/baileys",
     "version": "2.0.3",
     "description": "WhatsApp API Update By: N",
     "keywords": [
@@ -11,9 +11,9 @@
         "botwa",
         "z4phdev"
     ],
-    "homepage": "https://github.com/Nt3dExec/baileys",
+    "homepage": "https://github.com/Nted3xec/baileys",
     "repository": {
-        "url": "https://github.com/Nt3dExec/baileys"
+        "url": "https://github.com/Nted3xec/baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
